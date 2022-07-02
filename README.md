@@ -25,7 +25,7 @@ npm run dev
 	"cnpj": 1234567891,
 	"name": "testeee",
 	"email": "teste@gmail.com",
-	"phone": 991057171,
+	"phone": 9912371,
 	"address": "teste"
 }
 `
@@ -68,7 +68,7 @@ npm run dev
 	"cpf": 12314561241191,
 	"name": "teste",
 	"email": "teste@gmail.com",
-	"phone": 991057171,
+	"phone": 99113231,
 	"address": "teste",
 	"company_code": 2
 }
@@ -83,7 +83,7 @@ npm run dev
 	"cpf": 123456789,
 	"name": "testeee atualizacao",
 	"email": "teste@gmail.com",
-	"phone": 991057171,
+	"phone": 99123211,
 	"address": "teste",
 	"company_code": 3
 }
